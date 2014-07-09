@@ -1,35 +1,35 @@
 {
-	"name": "gapitoken-generic",
-	"version": "0.0.3",
-	"description": "Node.js module for Google-compatible API service account authorization (Server to Server flow)",
-	"main": "gapitoken.js",
-	"repository": {
-		"type": "git",
-		"url": "git://github.com/lynnaloo/node-gapitoken.git"
-	},
-	"keywords": [
-		"jwt",
-		"jws",
-		"google",
-		"api",
-		"token",
-		"service"
-	],
-	"author": {
-		"name": "Linda Nichols <lynnaloo@gmail.com>"
-	},
-	"contributors": [
-		{
-			"name": "Gal Ben-Haim"
-		},
-		{
-			"name": "Linda Nichols",
-			"email": "lynnaloo@gmail.com"
-		}
-	],
-	"license": "MIT",
-	"readmeFilename": "README.md",
-	"dependencies": {
-		"jws": "0.0.2"
-	}
+  "name": "gapitoken-generic",
+  "version": "0.0.4",
+  "description": "Node.js module for Google-compatible API service account authorization (Server to Server flow)",
+  "main": "gapitoken.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/lynnaloo/node-gapitoken.git"
+  },
+  "keywords": [
+    "jwt",
+    "jws",
+    "google",
+    "api",
+    "token",
+    "service"
+  ],
+  "author": {
+    "name": "Linda Nichols <lynnaloo@gmail.com>"
+  },
+  "contributors": [
+    {
+      "name": "Gal Ben-Haim"
+    },
+    {
+      "name": "Linda Nichols",
+      "email": "lynnaloo@gmail.com"
+    }
+  ],
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "dependencies": {
+    "jws": "0.0.2"
+  }
 }
