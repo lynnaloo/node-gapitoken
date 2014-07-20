@@ -1,6 +1,6 @@
 {
   "name": "gapitoken-generic",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Node.js module for Google-compatible API service account authorization (Server to Server flow)",
   "main": "gapitoken.js",
   "repository": {
